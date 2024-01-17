@@ -1,5 +1,5 @@
 # Structure-based-Academic-Information-System
-The code is a C++ program that allows users to manage a list of students and courses.
+The code is a C++ program that allows users to manage a list of students and courses using Structures.
 
 Student and Course Management System
 
